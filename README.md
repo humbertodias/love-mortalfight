@@ -33,6 +33,14 @@ With no time limit, whoever wins two rounds wins the game. Use your keyboard to 
 
 I based the script on a lecture by Colton Ogden from CS50 Mario. All photos used in the project were taken with an iPhone and edited in Gimp as I use Linux. To remove the background from photos, I used a free tool at photoscissors.com. Music RESET by Alex-Productions downloaded from https://www.chosic.com/. Fonts downloaded from dafont.com. The Arcade Alternate font was created and owned by Muizz Kasim, the 8-bit pusab font was created by Seba Perez, and finally PixAntiqua by Gerhard Großmann.
 
+## HOW TO RUN THE GAME
+
+Make sure love2d is installed on your system. Download MortalFight.love. In the terminal type in love MortalFight.love. The game will start.
+
+### For Windows users
+
+Download MortalFight-win64-v1-beta.zip from github or http://mikeladkowski.com/MortalGight.html. Extract and in the game directory run MortalKombat.exe. Game will start.
+
 ## CODE EXPLAINED
 
 Here is a brief description of the files in the project. Please check the code for more information. You can find it on github or on my website http://mikeladkowski.com/MortalFight.html.
